@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='convert-thai-to-arabic',
-    version='0.0.4',
+    version='0.0.6',
     description='Convert Thai numbers in file names to Arabic numbers',
     long_description=long_description,
     long_description_content_type="text/markdown",

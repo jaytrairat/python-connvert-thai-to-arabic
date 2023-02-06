@@ -27,4 +27,12 @@ convert-thai-to-arabic -d ~/Downloads/
 ```
 
 
+## Before
+![https://github.com/jaytrairat/python-connvert-thai-to-arabic/blob/main/assets/before.png](Before)
+
+## After
+![https://github.com/jaytrairat/python-connvert-thai-to-arabic/blob/main/assets/after.png](After)
+
+
+
 
