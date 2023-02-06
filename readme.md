@@ -28,10 +28,10 @@ convert-thai-to-arabic -d ~/Downloads/
 
 
 ## Before
-![https://github.com/jaytrairat/python-connvert-thai-to-arabic/blob/main/assets/before.png](Before)
+![Before](https://raw.githubusercontent.com/jaytrairat/python-connvert-thai-to-arabic/main/assets/before.png)
 
 ## After
-![https://github.com/jaytrairat/python-connvert-thai-to-arabic/blob/main/assets/after.png](After)
+![After](https://raw.githubusercontent.com/jaytrairat/python-connvert-thai-to-arabic/main/assets/after.png)
 
 
 
